@@ -1,0 +1,28 @@
+body
+{
+   background-color: grey;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-bottom: 3px solid;
+    border-color: black; 
+}
+.navbar-brand
+{
+    font-size: 34px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-left: 10px;
+}
+.container-fluid{
+    padding-left: 0rem;
+    padding-right: 0rem;
+    overflow: hidden;
+}
+.nav-link
+{
+    color: white;
+} 
+#search{
+    width: 10px;
+}

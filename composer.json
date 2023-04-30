@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php": ">=8.0.0",
+        "lcobucci/jwt": "^4.0",
+        "google/cloud": "^0.195.0",
+        "google/auth": "^1.25",
+        "google/cloud-core": "*",
+        "firebase/php-jwt": "^6.4",
+        "kreait/firebase-tokens": "^1.17",
+        "kreait/firebase-php": "^7.0"
+    }
+}
+
